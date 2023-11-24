@@ -1,4 +1,4 @@
-# Family-History-and-Clinical-Profile-in-OCD
+# EDA : Family-History-and-Clinical-Profile-in-OCD
 
 In an effort to hone my skills in the field of data visualization, this time I conducted an experiment using the 'OCD Patient Dataset: Demographics & Clinical Data' available on Kaggle. The primary focus this time is to explore the extent to which family history contributes to the manifestation and severity of Obsessive-Compulsive Disorder (OCD) symptoms.
 
